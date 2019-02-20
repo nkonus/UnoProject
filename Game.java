@@ -254,7 +254,6 @@ public class Game {
 	
 	
 	
-	// ODEV cardlari match edecek hale getirmek
 		
 	
 
