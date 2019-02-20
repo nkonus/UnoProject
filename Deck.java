@@ -30,12 +30,6 @@ public class  Deck {
 		return deck [currentcard++];
 		
 		
-		
-		
-		
-		
-	
-	
 	
 	}
 	
